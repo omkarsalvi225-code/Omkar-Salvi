@@ -270,7 +270,7 @@ export const profile = {
       preview:
         'https://images.unsplash.com/photo-1503376780353-7e6692767b70',
 
-      figmaUrl: '',
+      figmaUrl: 'https://www.figma.com/proto/VxQK22dLQak9uW9apXQTYg/Untitled?node-id=0-1&t=H5J3CFuoNvVRV4nQ-1',
     },
 
     {
@@ -288,7 +288,7 @@ export const profile = {
       preview:
         'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9',
 
-      figmaUrl: '',
+      figmaUrl: 'https://www.figma.com/proto/RYILwbNyobhioxfHUaErQe/Untitled?node-id=0-1&t=CRHfMrNxOpg7XS00-1',
     },
 
     {
@@ -306,7 +306,7 @@ export const profile = {
       preview:
         'https://images.unsplash.com/photo-1556740749-887f6717d7e4',
 
-      figmaUrl: '',
+      figmaUrl: 'https://www.figma.com/proto/EaWaZ4WkQjat76ljAYoOrS/Untitled?node-id=0-1&t=R1HJ2eSQqO5fEwHt-1',
     },
 
     {
@@ -324,7 +324,7 @@ export const profile = {
       preview:
         'https://images.unsplash.com/photo-1504674900247-0877df9cc836',
 
-      figmaUrl: '',
+      figmaUrl: 'https://www.figma.com/proto/lWyXeCJuNPxFXAPkLWbId0/Untitled?node-id=0-1&t=3soDU8ppJWKujKew-1',
     },
   ],
 }
